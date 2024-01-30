@@ -1,4 +1,4 @@
-# Project Name - Solution
+# NFT preview card - Solution
 
 ![](./images/design.png)
 
@@ -34,14 +34,20 @@ Los usuarios deberían poder:
 Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ![](./images/mobile.png)
+
+| Desktop                                        | Mobile                                         |
+| ---------------------------------------------- | ---------------------------------------------- |
+| ![1706591859843](image/README/1706591859843.png) | ![1706592404885](image/README/1706592404885.png) |
+
+
 ![](./images/desktop.png)
 
 ### Enlaces
 
 El proyecto se encuentra alojado en un hosting gratuito(Netlify):
 
-- [Pagina web]()
-- [Codigo fuente]()
+- [Pagina web](https://08-day-nft-preview-card.vercel.app/)
+- [Codigo fuente](https://github.com/ESP420/08-day-nft-preview-card)
 
 ## Proceso de trabajo
 
